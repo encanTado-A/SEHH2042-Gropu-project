@@ -1,0 +1,26 @@
+giftRecord[numberOfGift].setGiftInfo("A01", "LG Internet TV", 3900, 19000);
+giftRecord[++numberOfGift].setGiftInfo("A02", "Pioneer Hifi Set", 2400, 11500);
+giftRecord[++numberOfGift].setGiftInfo("A03", "Sony DVD Player", 400, 2000);
+giftRecord[++numberOfGift].setGiftInfo("B01", "Healthy Air Fryer", 1500, 7300);
+giftRecord[++numberOfGift].setGiftInfo("B02", "Tefal Microwave Oven", 480,2400);
+giftRecord[++numberOfGift].setGiftInfo("B03", "Famous Coffee Maker", 1800,8800);
+giftRecord[++numberOfGift].setGiftInfo("B04", "Smart Rice Cooker", 600, 2900);
+giftRecord[++numberOfGift].setGiftInfo("B05", "TechCook Toaster Oven", 450,2250);
+giftRecord[++numberOfGift].setGiftInfo("C01", "Wellcome $50 Coupon", 50, 250);
+giftRecord[++numberOfGift].setGiftInfo("C02", "Mannings $50", 50, 250);
+giftRecord[++numberOfGift].setGiftInfo("C03", "Carol Restaurant $100 Coupon",100, 500);
+giftRecord[++numberOfGift].setGiftInfo("C04", "Shell $200 Coupon", 200, 960);
+giftRecord[++numberOfGift].setGiftInfo("D01", "Clever Headset", 350, 1750);
+giftRecord[++numberOfGift].setGiftInfo("D02", "HP Optic Mouse", 250, 1250);
+giftRecord[++numberOfGift].setGiftInfo("D03", "Stylish Bluetooth Speaker",800, 3900);
+
+  customerRecord[numberOfCustomers].setCustomerInfo("Tommy2015", "B", 8500);
+  customerRecord[++numberOfCustomers].setCustomerInfo("DavidChan", "B", 22800);
+  customerRecord[++numberOfCustomers].setCustomerInfo("Luna123", "B", 650);
+  customerRecord[++numberOfCustomers].setCustomerInfo("TigerMan", "B", 14000);
+  customerRecord[++numberOfCustomers].setCustomerInfo("Max5678", "S", 2580);
+  customerRecord[++numberOfCustomers].setCustomerInfo("Neo2000", "S", 8000);
+  customerRecord[++numberOfCustomers].setCustomerInfo("CCTang", "S", 33554);
+  customerRecord[++numberOfCustomers].setCustomerInfo("EchoWong", "G", 8650);
+  customerRecord[++numberOfCustomers].setCustomerInfo("Rubychow", "G", 28000);
+  customerRecord[++numberOfCustomers].setCustomerInfo("Ivy2023", "G", 12340);

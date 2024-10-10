@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# custom
+main
+Makefile
+.breakpoints
+.replit
+exam_coverage.txt
+replit_zip_error_log.txt
+replit.nix
+
+/.cache
+/.ccls-cache
+/dummy_files/*
+/.vscode
+
+# hidden to protect priviacy
+/GRS_backupV1-V8/*.cpp

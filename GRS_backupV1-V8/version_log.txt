@@ -1,0 +1,5 @@
+V3.0: 
+added function isDateVaild()
+changed editCus() and added date checking in line 436-449
+
+refine structure by add the "// end of function" in every function
